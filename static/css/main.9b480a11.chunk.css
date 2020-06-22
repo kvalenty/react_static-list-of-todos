@@ -1,0 +1,2 @@
+.App{text-align:center}.todo-list{margin:0 auto;padding-left:0;width:60%;list-style:none;border:1px solid #000}.todo{display:flex;justify-content:space-between}.todo-list__item:not(:last-child){margin-bottom:15px}.todo__done--true{background-color:#b8f7b8}.todo__done--false{background-color:#f7abab}
+/*# sourceMappingURL=main.9b480a11.chunk.css.map */
